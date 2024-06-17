@@ -7,6 +7,7 @@ Estos scripts diseñados para DeepNote estan hechos para facilitar la instalacio
 ## Instalaciones
 ### SSH
 ```sh
+    sudo su
     wget https://raw.githubusercontent.com/JaviTutoriales/deepnote-scripts/main/ssh.sh
     bash ssh.sh
 ```
