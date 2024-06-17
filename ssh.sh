@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+clear
 echo "-----------------"
 echo "  DEEPNOTE SSH"
 echo "-----------------"
@@ -19,7 +19,6 @@ while true; do
             apt update
             apt upgrade
             apt install tmate
-            ssh-keygen
             clear
             echo "Instalacion Terminada."
             sleep 5
