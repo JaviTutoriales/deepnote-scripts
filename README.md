@@ -8,6 +8,7 @@ Estos scripts diseñados para DeepNote estan hechos para facilitar la instalacio
 ### SSH
 ```sh
     sudo su
+    ssh-keygen
     wget https://raw.githubusercontent.com/JaviTutoriales/deepnote-scripts/main/ssh.sh
     bash ssh.sh
 ```
